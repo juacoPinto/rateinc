@@ -1,6 +1,6 @@
 /*
-    Author: YOUR_NAME
-    Email: YOUR_EMAIL
+    Author: Joaquin_Pinto
+    Email: juacopinto@gmail.com
 */
 
 "use strict";
